@@ -5,4 +5,4 @@ set -e
 docker pull docker push ebotsmith/simple-python-flask-app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 docker push ebotsmith/simple-python-flask-app
+docker run -d -p 5001:5001 docker push ebotsmith/simple-python-flask-app
